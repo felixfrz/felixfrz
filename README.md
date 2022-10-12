@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @felixfrz
+- 👋 Hi, I’m @felixfrz   
 - I'm a MERN stack, I work both on web and mobile Apps 💻
 - I live in England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - I hold a Masters Degree in Computer Science from the University of Hertfordshire in the UK 🇬🇧
