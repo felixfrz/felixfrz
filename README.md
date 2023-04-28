@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felixfrz   
 - I'm a MERN stack, I work both on web and mobile Apps 💻
 - I live in England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
-- I hold a Masters Degree in Computer Science from the University of Hertfordshire in the UK 🇬🇧
+- MSc Computer Science 🇬🇧
 - 👀 I’m interested in Computer Science topics
 - 🌱 I’m skilled in C, Java, JavaScript, Python, Dart
 - 💞️ I’m looking to collaborate on any software development projects
