@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @felixfrz   
-- I'm a Fullstack .Net and MERN stack developer, I work both on Web, Desktop and Mobile Apps 💻
+- I'm a Fullstack Java Springboot and MERN stack developer, I work on Web, Desktop and Mobile Apps 💻
 - I live in England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
 - MSc Computer Science 🇬🇧
 - 👀 I’m interested in Computer Science topics
-- 🌱 I’m skilled in C#, .Net C, Java, JavaScript, Python, Dart
+- 🌱 I’m skilled in Node, Spring, C#, .NET C, Java, JavaScript, Python, Dart
 - 💞️ I’m looking to collaborate on any software development projects
 - 📫 You can reach me at oladoyinayodeji@gmail.com
 
